@@ -1,0 +1,35 @@
+{
+  "name": "echliniques",
+  "version": "1.0.0",
+  "description": "A global plateform for medical professionals",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^15.0.0",
+    "ape-cricket": "^1.1.7",
+    "axios": "^0.19.0",
+    "bcrypt": "^3.0.6",
+    "cheerio": "^1.0.0-rc.3",
+    "compression": "^1.7.4",
+    "config": "^3.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-async-errors": "^3.1.1",
+    "joi": "^14.3.1",
+    "joi-objectid": "^2.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.5.3",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.1",
+    "nodemailer": "^6.1.1",
+    "puppeteer": "^1.18.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "unirest": "^0.6.0"
+  }
+}

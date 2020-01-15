@@ -1,0 +1,5 @@
+{
+    "dbConnection":"mongodb://localhost:27017/cric-DB",
+    "mode":"Development",
+    "secretkey":"secretkey123"
+}
